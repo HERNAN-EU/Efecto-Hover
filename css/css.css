@@ -1,0 +1,30 @@
+body{
+background: rgb(8, 0, 105);
+color: white;
+}
+img{
+    padding: 10px;
+    height: 40%;
+    width: 40%;
+}
+h1{
+    text-align: center;
+}
+tr:hover{
+    background: #005d86;
+    transition: 300ms;
+}
+
+td{
+    text-align: center;
+}
+#contenedor{
+    display: flex;    
+    text-align: center;
+    align-items: center;
+}
+#img{
+    align-content:center;
+    height: 20%;
+    width: 20%;
+}
